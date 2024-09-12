@@ -24,7 +24,7 @@ books, customers, and  sales
 **order_status:** the possible statuses of an order
 
 ## Gravity_Book_DWH Design
-#### Galaxy Schem
+#### Galaxy Schema
 
 ![Untitled2](https://github.com/user-attachments/assets/f156336e-c5ec-42e1-9349-4b98433f96e8)
 
