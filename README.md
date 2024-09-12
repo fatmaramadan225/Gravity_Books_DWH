@@ -79,4 +79,4 @@ method:\
 **Express:** 12 units.\
 **Priority:** 9 units.\
 **Standard:** 6 units.\
-**Orders per Customer:** A bar chart and line graph showing orders per customer.\
+**Orders per Customer:** A bar chart and line graph showing orders per customer.
